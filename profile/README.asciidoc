@@ -34,8 +34,8 @@ NOTE: Bien que l'ambiance de ce cours se veuille proche d'un "bootcamp" et d'un 
 
 | 26 Juin | Lundi | Inscription à Github, rajout à github classrooms, commandes de bases Git, rappel MongoDB 
 | 27 Juin | Mardi | Middleware, opération CRUD, optimisations du serveur, connexion à une BD
-| 28 Juin | Mercredi | Schémas de DB, authentification avec bcrypt, token avec JWT 
-| 29 Juin | Jeudi | token avec JWT (suite), Téleversment de fichiers avec multer 
+| 28 Juin | Mercredi | Schémas de DB, authentification avec bcrypt
+| 29 Juin | Jeudi | token avec JWT, Téleversment de fichiers avec multer 
 | 30 Juin | Vendredi | FÉRIÉ 
 | 3 Juillet | Lundi | Révision, Introduction à Vue.js avec l'api composition 
 | 4 Juillet | Mardi | Introduction aux composants, introduction à Vuetify 
