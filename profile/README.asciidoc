@@ -2,7 +2,7 @@
 
 == Introduction
 
-[Votre Organisation] est une organisation dédiée à l'apprentissage des technologies Fullstack avec le MEVN stack.
+"Tortues espiègles" est une organisation dédiée à l'apprentissage des technologies Fullstack avec le MEVN stack.
 Ce dépôt contient l'ensemble des devoirs qui sont nécessaires pour accomplir cette tâche.
 
 Notre équipe est composée d'Antoine Moevus, un passionné par le développement de logiciels.
