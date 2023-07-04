@@ -27,27 +27,49 @@ Vous allez devoir
 
 NOTE: Bien que l'ambiance de ce cours se veuille proche d'un "bootcamp" et d'un "hackathon", vous n'êtes pas obligé de faire des nuits blanches et boire des boissons énergisantes.
 
+== Travaux à remettre
+- 303 : labo 2 sans SE0 Tavares
+- 304 : labo 1 Tavares
+- 302 : labo 03 annulé, remplacé par Vuetify 
+- 304 : tous les devoirs (6 devoirs, remettez les même en retard)
+- 304 : Examen
+
+
 == Calendrier
 
 |===
 | Date | Jour de la Semaine | Tâches
 
 | 26 Juin | Lundi | Inscription à Github, rajout à github classrooms, commandes de bases Git, Middleware, opération CRUD, optimisations du serveur, connexion à une BD
-| 27 Juin | Mardi | Rappels de MongoDB, Schémas de DB 
-| 28 Juin | Mercredi | Authentification avec bcrypt, token avec JWT
-| 29 Juin | Jeudi | token avec JWT (suite), Téleversment de fichiers avec multer 
+| 27 Juin | Mardi | Serveur: Routage et Factorisation,
+| 28 Juin | Mercredi | Rappels de MongoDB, Schémas de DB, Création d'un serveur complet avec BD pour gérer les données d'un site web 
+| 29 Juin | Jeudi | Exploration d'API avec POSTMAN 
 | 30 Juin | Vendredi | FÉRIÉ 
-| 3 Juillet | Lundi | Révision, Introduction à Vue.js avec l'api composition 
-| 4 Juillet | Mardi | Introduction aux composants, introduction à Vuetify 
-| 5 Juillet | Mercredi | Création d'un site web côté client 
-| 6 Juillet | Jeudi | Serveur: Routage et Factorisation, Création d'un serveur complet avec BD pour gérer les données d'un site web 
-| 7 Juillet | Vendredi | Utilisation d'un middleware de log avec Morgan, versioning de l'API, gestion des erreurs 
-| 10 Juillet | Lundi | Auth avec Supabase, documentation de l'API avec Swagger, pratique de codage 
-| 11 Juillet | Mardi | Introduction à NUXT.js, pratique de codage 
-| 12 Juillet | Mercredi | Analyse du site web avec Lighthouse, sécurité web, pratique de codage 
-| 13 Juillet | Jeudi | SEO 
-| 14 Juillet | Vendredi | Déploiement sur Vercel, révision finale
+| 3 Juillet | Lundi | Authentification avec bcrypt, token avec JWT 
+| 4 Juillet | Mardi | Téleversment de fichiers avec multer **DEVOIR 05**
+| 5 Juillet | Mercredi |  ** RÉSEVERVÉ labo2 303 **
+| 6 Juillet | Jeudi | Introduction à Vue.js avec l'api composition    
+| 7 Juillet | Vendredi | Introduction aux composants, introduction à Vuetify 
+| 10 Juillet | Lundi | Introduction à Nuxt.js : un cadriciel avec des opinions, **DEVOIR complet guidée**
+| 11 Juillet | Mardi | Déploiement sur REPLIT d'un MEVN stack, Retour sur VUE.js
+| 12 Juillet | Mercredi | Analyse du site web avec Lighthouse, SEO avec Nuxt.js, revision finale (matière pas à l'examen)
+| 13 Juillet | Jeudi |  EXAMEN Présentiel: QCM + un peu de pratique (*) 
+| 14 Juillet | Vendredi | Déploiement sur Vercel
 |===
+
+**Examen: ** 
+- Mise en place d'un serveur express
+- Création de routes CRUD
+- Schema avec Mongoose, 
+- Connexion avec Atlas ou local, 
+- Déploiement sur REPLIT
+
+**BONUS de matière :**  
+- Utilisation d'un middleware de log avec Morgan
+- versioning de l'API
+- documentation de l'API avec Swagger
+
+__Pratique de codage__: utilisaiton de routeurs, convention de noms pour les schémas MongoDB, convention des api web RESTful, MVC, middileware. 
 
 NOTE: L'organisation du programme peut changer.
 
